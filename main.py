@@ -11,9 +11,12 @@ import ast
 
 # Force output to use utf-8 encoding
 sys.stdout.reconfigure(encoding='utf-8')
+################################
+###important
+api_key="PUT YOUR API KEY"
 
-
-genai.configure(api_key='AIzaSyDHYEsdpCQinuZwtpLadB4IbOtkDD98sXs')
+#############################
+genai.configure(api_key='api_key')
 
 generation_config = {
     "temperature": 0.1,
