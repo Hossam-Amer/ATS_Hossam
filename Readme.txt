@@ -4,4 +4,4 @@ to run it:
 Open cmd in this folder and run command : pip install -U -r requirements.txt
 To run the application run command : streamlit run main.py
 
-<video src="https://github.com/Hossam-Amer/Applicant-Tracking-System-ATS/issues/1#issue-2565070031"></video>
+https://github.com/Hossam-Amer/Applicant-Tracking-System-ATS/issues/1#issue-2565070031
