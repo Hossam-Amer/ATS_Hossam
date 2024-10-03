@@ -6,3 +6,5 @@ To run the application run command : streamlit run main.py
 
 
 https://github.com/user-attachments/assets/f09758fd-b856-4e6e-bd3c-5cf0e3f54cf8
+https://github.com/user-attachments/assets/f09758fd-b856-4e6e-bd3c-5cf0e3f54cf8
+<video src=https://github.com/user-attachments/assets/f09758fd-b856-4e6e-bd3c-5cf0e3f54cf8" width="300" />
